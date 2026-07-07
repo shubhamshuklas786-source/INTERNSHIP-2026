@@ -1,6 +1,6 @@
 import streamlit as st
 
-#from hpp import predict_rent
+from hpp import predict_rent
 
 
 def main():
